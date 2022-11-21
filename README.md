@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**zorgonide/zorgonide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ammar-khurshid-757140177/"/>
+  </a>
+</div>
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I love working with React, and frontend development in general
+- 🌱 I’m currently studing at the Univeristy of Glasgow (MSc CS, expected Sep 2023)
+- 🤔 I’m looking for frontend roles starting Sep 2023 in the UK
+- 💬 Ask me about web development
+- 📫 How to reach me: ammar1998@gmail.com
