@@ -2,7 +2,7 @@
 
 - 🔭 I love working with React, and frontend development in general
 - 🌱 I’m currently studing at the University of Glasgow (MSc CS, expected Sep 2023)
-- 🤔 I’m looking for frontend roles starting Sep 2023 in the UK
+- 🤔 I’m looking for frontend roles starting Sep 2023 in the UK, here's my [portfolio](https://zorgonide.github.io/devportfolio/)
 - 💬 Ask me about web development
 - 📫 How to reach me: ammar1998@gmail.com
 <br/>
