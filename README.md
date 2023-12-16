@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I love working with React, Web Analytics and Frontend Development in general
-- 🌱 I’m a graduate of the University of Glasgow (MSc CS, Distinction)
+- 🔭 I love working with React, Web Analytics and Frontend Development
+- 🌱 I’m a postgraduate from the University of Glasgow (MSc CS, Distinction)
 - 💬 Ask me about web development
 - 📫 How to reach me: ammar1998@gmail.com
 <br/>
