@@ -3,7 +3,6 @@
 - 🔭 I love working with React, Web Analytics and Frontend Development
 - 🌱 I’m a postgraduate from the University of Glasgow (MSc CS, Distinction)
 - 💬 Ask me about web development
-- 📫 How to reach me: ammar1998@gmail.com
 <br/>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ammar-khurshid-757140177/" target="_blank" rel="noopener noreferrer">
