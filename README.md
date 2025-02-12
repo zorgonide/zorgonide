@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I love working with React, Web Analytics and Frontend Development
-- 🌱 I’m a postgraduate from the University of Glasgow (MSc CS, Distinction)
 - 💬 Ask me about web development
 <br/>
 <div id="badges" align="center">
